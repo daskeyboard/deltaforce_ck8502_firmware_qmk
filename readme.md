@@ -1,19 +1,18 @@
+# WORK IN PROGRESS - README-FIRST DeltaForce 65 QMK firmware
 
-# k83
+Github repo: https://github.com/daskeyboard/deltaforce_ck8502_firmware_qmk
 
-A customizable 75% encoder keyboard.
+This is the first readme file for the DeltaForce 65 QMK firmware. It is intended to provide a quick overview of the keyboard and how to get started with it.
 
-* Keyboard Maintainer: [jonylee@hfd](https://github.com/jonylee1986)
-* Hardware Supported: k83
+## Keyboard Overview
 
-Make example for this keyboard (after setting up your build environment):
+The DeltaForce 65 is a customizable 65% encoder keyboard. It is designed to be compact and portable, while still providing a full set of keys for productivity and gaming.
+It features a sleek design with RGB backlighting and programmable keys, allowing users to customize their typing experience.
+The keyboard is based on the QMK firmware, which is an open-source firmware for mechanical keyboards. This allows for a high degree of customization and flexibility, making it a popular choice among keyboard enthusiasts.
+The DeltaForce 65 is compatible with a wide range of operating systems, including Windows, macOS, and Linux. It connects via USB-C, ensuring a reliable and fast connection.
+The keyboard also supports hot-swappable switches, allowing users to easily change out the switches without soldering. This makes it easy to experiment with different switch types and find the perfect feel for your typing style.
+The DeltaForce 65 is a great choice for anyone looking for a high-quality, customizable keyboard that can be tailored to their specific needs. Whether you're a gamer, programmer, or just someone who appreciates a good typing experience, the DeltaForce 65 has something to offer.
 
-    make hfdkb/keyboard_sw/k83:default
-
-Flashing example for this keyboard:
-
-    make hfdkb/keyboard_sw/k83:default:flash
-
-**Reset Key**: Hold down the key located at *K01*, which programmed as *Esc* while plugging in the keyboard.
-
-See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
+## Getting Started
+To get started with the DeltaForce 65 QMK firmware, follow these steps:
+1. **Set up your build environment**: Follow the instructions in the [QMK documentation](https://docs.qmk.fm/#/getting_started_build_tools) to set up your build environment. This includes installing the necessary dependencies and tools for building the firmware.
