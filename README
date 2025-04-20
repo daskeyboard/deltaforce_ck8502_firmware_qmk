@@ -1,0 +1,34 @@
+# Das Keyboard DeltaForce 65 QMK Firmware
+
+THIS IS A WORK IN PROGRESS
+
+THIS IS A WORK IN PROGRESS
+
+THIS IS A WORK IN PROGRESS
+
+THIS IS A WORK IN PROGRESS
+
+THIS IS A WORK IN PROGRESS
+
+THIS IS A WORK IN PROGRESS
+
+THIS IS A WORK IN PROGRESS
+
+THIS IS A WORK IN PROGRESS
+
+This is the QMK firmware for the [DeltaForce 65](https://www.daskeyboard.com/deltaforce-65/) keyboard made by Das Keyboard.
+It is a 65% keyboard with a customizable layout and RGB lighting.
+
+Repo URL: <https://github.com/daskeyboard/deltaforce_ck8502_firmware_qmk>
+
+## Features
+
+- 65% layout
+- RGB lighting, customizable per-key
+- Encoder support
+- Customizable keymap
+- Supports VIA
+- Supports QMK firmware
+- Supports QMK Toolbox for flashing
+
+## TODO Build Instructions
