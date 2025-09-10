@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__morphllm-fast-apply__directory_tree",
+      "mcp__morphllm-fast-apply__read_multiple_files",
+      "mcp__morphllm-fast-apply__write_file",
+      "Bash(git pull:*)",
+      "Bash(git checkout:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
